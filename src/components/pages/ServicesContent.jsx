@@ -32,6 +32,14 @@ const ServicesContent = () => {
             <span className="font-bold">24/7 Support:</span> Get help whenever
             you need it with our round-the-clock support team.
           </div>
+          <div className="mb-2 p-4 bg-gray-700 text-white rounded-lg shadow-lg">
+            <span className="font-bold">Free For Beginners</span> 
+            We want to make sure more and more developers come ahead and experience the hosting and experiment
+          </div>
+          <div className="mb-2 p-4 bg-gray-700 text-white rounded-lg shadow-lg">
+            <span className="font-bold">Ad Based Free Model</span> 
+            We use an Ad based model so that we could give access of our resources to the beginners
+          </div>
         </div>
       </main>
     </Layout>
