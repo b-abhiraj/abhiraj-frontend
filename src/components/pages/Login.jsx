@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Layout from "../layout/Layout";
 import axios from "axios";
 import { useLocation, useNavigate } from "react-router-dom";
-import { useAuth } from "./../context/auth";
+// import { useAuth } from "./../context/auth";
 import toast from "react-hot-toast";
 const Login = () => {
   const navigate = useNavigate();
