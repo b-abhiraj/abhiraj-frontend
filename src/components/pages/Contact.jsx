@@ -4,8 +4,8 @@ import Layout from "../layout/Layout";
 const Contact = () => {
   return (
     <Layout title={"Get in touch with us !!!"}>
-      <main className=" text-white flex-1 p-20 dark:bg-gray-900">
-        <div className="w-full dark:bg-gray-700 text-center dark:text-gray-400">
+      <main className=" text-white flex-1 p-20 bg-gray-900">
+        <div className="w-full bg-gray-700 text-center text-gray-400">
           <h1 className="lg:p-10 lg:font-bold">
             We're currently facing downtime with our backend system and we are
             working on it & will get back soon !!!

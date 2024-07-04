@@ -3,7 +3,7 @@ import Layout from '../layout/Layout'
 const PageNotFound = () => {
      return (
        <Layout title={"404 Not Found"}>
-         <section className="relative z-10 pt-48 scroll h-auto dark:bg-gray-900 font-Kanit bg-primary py-[120px] w-auto">
+         <section className="relative z-10 pt-48 scroll h-auto bg-gray-900 font-Kanit py-[120px] w-auto">
            <div className="container mx-auto md:items-center">
              <div className=" flex">
                <div className="lg:w-full sm:max-w-full md:w-full">

@@ -5,16 +5,16 @@ const PricingContent = () => {
   return (
     <Layout title={"Pricing ? Don't Worry !"}>
       <main className="flex-1 p-8 bg-gray-900 pt-20">
-      <div className="w-full dark:bg-gray-700 text-center dark:text-gray-400">
+      <div className="w-full bg-gray-700 text-center text-gray-400">
         <h1 className="lg:p-10 lg:font-bold">
           We're currently facing downtime with our backend system and we are
           working on it & will get back soon !!!
         </h1>
       </div>
-        <h2 className="text-4xl font-bold text-center mb-8 dark:text-white">
+        <h2 className="text-4xl font-bold text-center mb-8 text-white">
           Only pay for what you use.
         </h2>
-        <p className="text-center text-lg mb-8 dark:text-white">
+        <p className="text-center text-lg mb-8 text-white">
           Pricing scales up and down with your usage. Match cost and value.
         </p>
         <div className="flex flex-wrap justify-around ">
@@ -79,7 +79,7 @@ function PricingCard({
   buttonLink,
 }) {
   return (
-    <div className="bg-gray-800 p-6 rounded-lg shadow-lg w-80 text-center mb-4  dark:text-white hover:border hover:border-white">
+    <div className="bg-gray-800 p-6 rounded-lg shadow-lg w-80 text-center mb-4  text-white hover:border hover:border-white">
       <h3 className="text-2xl font-bold">{title}</h3>
       
       <p className="text-4xl font-bold pb-10">

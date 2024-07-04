@@ -6,7 +6,7 @@ const Banner = async () => {
 
   return (
     <>
-      <div className="w-full dark:bg-gray-700 text-center dark:text-gray-400">
+      <div className="w-full bg-gray-700 text-center text-gray-400">
         <h1 className="lg:p-10 lg:font-bold">
           We're currently facing downtime with our backend system and we are
           working on it & will get back soon !!!
